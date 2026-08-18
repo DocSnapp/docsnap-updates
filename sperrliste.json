@@ -1,0 +1,13 @@
+{
+  "list": {
+    "updated": "2026-08-18",
+    "revoked": [
+      {
+        "hwid": "C96FF-ABCA7-2B6E9-0F8B4",
+        "grund": "Test der Fernsperre",
+        "seit": "2026-08-18"
+      }
+    ]
+  },
+  "signature": "RlUkLULrIqD5iOBwBiqnet+pDY0D6mRPprxbnVQjziui25jwgLECuIEcJ8QU+Txj+6J39bVe/qhjGjnQ6gTQCw=="
+}

@@ -1,13 +1,7 @@
 {
   "list": {
     "updated": "2026-08-18",
-    "revoked": [
-      {
-        "hwid": "AAAAA-BBBBB-CCCCC-DDDDD",
-        "grund": "Zahlung zurueckgebucht",
-        "seit": "2026-08-18"
-      }
-    ]
+    "revoked": []
   },
-  "signature": "/A6+tP0jAiiphWnBQT0HIsG0E5qyaCIiEuMy8CwQOAuaKqDhyH0ZZMsNGn0c8F+h42mRVGvl00PpnV/LuxehAQ=="
+  "signature": "jb4Gaa5ekG/TLfK77m2UvB0NifQyGkSgXTft5BAvaYWEJp9h7x4IeX1FOvKhLAEoy4Ux1IoL+13YMG4xoZBxAg=="
 }

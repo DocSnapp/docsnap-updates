@@ -1,13 +1,7 @@
 {
   "list": {
     "updated": "2026-08-18",
-    "revoked": [
-      {
-        "hwid": "CCCCC-DDDDD-EEEEE-FFFFF",
-        "grund": "Test",
-        "seit": "2026-08-18"
-      }
-    ]
+    "revoked": []
   },
-  "signature": "Bt6WYwSpTZXNCTWfpxrR/IlSGzs/xYiGUzB2XyYsuSTeS3G9ObiHJa4KQnTpxxUfZBT4NrlMDAn+ingh6+sPDg=="
+  "signature": "jb4Gaa5ekG/TLfK77m2UvB0NifQyGkSgXTft5BAvaYWEJp9h7x4IeX1FOvKhLAEoy4Ux1IoL+13YMG4xoZBxAg=="
 }

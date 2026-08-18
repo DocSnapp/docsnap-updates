@@ -1,13 +1,7 @@
 {
   "list": {
     "updated": "2026-08-18",
-    "revoked": [
-      {
-        "hwid": "C96FF-ABCA7-2B6E9-0F8B4",
-        "grund": "weitergebung",
-        "seit": "2026-08-18"
-      }
-    ]
+    "revoked": []
   },
-  "signature": "mong4KUv8PCUsL/L5tmF/3oeN97c0Ux1xEzqlPSoAQoQmGY0Qgk3Ndf2xpq1vMvwLRz3hXSBpKZLjgk0wKJuBg=="
+  "signature": "jb4Gaa5ekG/TLfK77m2UvB0NifQyGkSgXTft5BAvaYWEJp9h7x4IeX1FOvKhLAEoy4Ux1IoL+13YMG4xoZBxAg=="
 }
